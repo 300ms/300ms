@@ -33,5 +33,3 @@
 &nbsp; <a href="https://linkedin.com/in/ilhan-sönmez" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ilhansnmz44@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-⭐️ From [300ms](https://github.com/300ms)
