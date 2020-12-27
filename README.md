@@ -11,11 +11,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | C/C++ | Python
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; SQL
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; React | Redux | Ruby on Rails
+- 💻 &nbsp; HTML | CSS/Sass | JavaScript | Ruby | C/C++ | Python
+- 🖥 &nbsp; NodeJS | React | Redux | Ruby on Rails
+- 🛢 &nbsp; PostgreSQL | MySQL | SQLite3
+- 🌐 &nbsp; Jest | RSpec | Capybara
+- 🔧 &nbsp; Visual Studio code | Git | Linux | Heroku | Webpack | Pair Programming
 
 <br>
 
@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=300ms&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/300ms/github-readme-stats)
 
-
+I'm currently a full-stack developer working remotely as part-time full-stack developer in a software company and I am looking for my next full-time web developer role. I look forward to learning new technologies and also deepen my knowledge in my current skills.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
