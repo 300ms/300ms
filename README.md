@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=300ms&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/300ms/github-readme-stats)
 
-I'm working remotely as part-time full-stack developer in a software company and looking for new job opportunities. I look forward to learning new technologies and also deepen my knowledge in my current skills.
+I'm working remotely as a part-time full-stack developer in a software company and looking for new job opportunities. I look forward to learning new technologies and also deepen my knowledge in my current skills.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
