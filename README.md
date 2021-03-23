@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React&Redux
+- 🔭 &nbsp; I’m currently learning React&Redux.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science Engineering and Full-Stack Web Development.
 - 💼 &nbsp; Full Stack Developer.
