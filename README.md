@@ -11,8 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS/Sass | JavaScript | Ruby | C/C++ | Python
-- 🖥 &nbsp; NodeJS | React | Redux | Ruby on Rails
+- 💻 &nbsp; HTML | CSS/Sass | JavaScript | Ruby | C#
+- 🖥 &nbsp; NodeJS | React | Redux | Ruby on Rails | .NET
 - 🛢 &nbsp; PostgreSQL | MySQL | SQLite3
 - 🌐 &nbsp; Jest | RSpec | Capybara
 - 🔧 &nbsp; Visual Studio code | Git | Linux | Heroku | Webpack | Pair Programming
