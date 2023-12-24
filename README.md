@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React&Redux.
+- 🔭 &nbsp; I’m currently learning and practicing different Software Technologies for Full-Stack Web Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science Engineering and Full-Stack Web Development.
 - 💼 &nbsp; Full Stack Developer.
@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=300ms&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/300ms/github-readme-stats)
 
-I'm working remotely as a part-time full-stack developer in a software company and looking for new job opportunities. I look forward to learning new technologies and also deepen my knowledge in my current skills.
+I'm a Full-stack developer in a software company and looking for new job opportunities. I look forward to learning new technologies and deepening my skills and knowledge.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
